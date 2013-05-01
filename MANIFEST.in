@@ -1,0 +1,5 @@
+recursive-include kagesenshi_org *
+include *.txt
+include *.rst
+recursive-include docs *
+global-exclude *pyc

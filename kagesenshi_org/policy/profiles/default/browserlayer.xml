@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<layers>
+    <layer name="kagesenshi_org.policy"
+        interface="kagesenshi_org.policy.interfaces.IProductSpecific" />
+</layers>
